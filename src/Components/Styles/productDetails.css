@@ -1,0 +1,14 @@
+/* .details-div{
+
+} */
+.details-div-inner{
+    display: flex;
+    
+}
+span{
+    color:rgb(225, 134, 15);
+}
+.details-card{
+    background-color: aqua;
+}
+

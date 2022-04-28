@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+h2{
+    font-size:40px;
+    color: rgb(111, 66, 7);
+}
+hr{
+    margin: 20px;
+}

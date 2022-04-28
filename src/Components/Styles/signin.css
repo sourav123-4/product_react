@@ -1,0 +1,17 @@
+.signIn{
+    padding: 20px;
+    margin: 20px;
+}
+.signIn>input{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size:x-large;
+}
+.sigin-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-around; */
+
+}
